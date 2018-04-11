@@ -1,3 +1,3 @@
 # spell-check
 
-Hello
+Hello my naome is James
